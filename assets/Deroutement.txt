@@ -8,6 +8,7 @@ Deroutement
 
 
 
+
                                                     Ve = Vw*Cos (a)
 
                                                     Vt = Vw+*Sin (a)
